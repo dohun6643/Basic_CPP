@@ -14,6 +14,7 @@ int *ptr_second;
 for (int i = MAX-1; i>= 0; i--){
     ptr_second = &var[i];
     cout << "...."<<*ptr_second << ", addr: "<< ptr_second << endl;
+    
 }
 return 0;
 }
