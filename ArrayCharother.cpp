@@ -1,7 +1,5 @@
 #include <iostream>
-/*
-This is first comment
-*/
+
 using namespace std;
 int ArrayChar() {
 char greeting[6] = {'H', 'e', 'l', 'l', 'o', '\0'};
