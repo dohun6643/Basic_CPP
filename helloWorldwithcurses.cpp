@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
     initscr();
-    printw("Hellow Ncurse!");
+    printw("Hello Ncurse!");
     refresh(); //end main
     getch();
     endwin();
