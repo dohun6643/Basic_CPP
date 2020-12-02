@@ -19,7 +19,7 @@ int main2()
         cout << "Value of first is not matching" << endl;
     }
     cout << "Exact value of first is :" << first << endl;
-    return 30;
+    return 300;
 }
 int main()
 {

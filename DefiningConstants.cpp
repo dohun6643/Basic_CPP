@@ -7,9 +7,9 @@ using namespace std;
 #define NEWLINE '\n'
 
 int main() {
-    const int WIDTH = 5;
+    // const int WIDTH = 5;
     // LENGTH = 20 ;
-    // WIDTH = 10 ;
+    const int WIDTH = 10 ;
     int area;
     area = LENGTH * WIDTH;
     cout << area;
